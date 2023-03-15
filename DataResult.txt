@@ -1,0 +1,892 @@
+RANDOM DATA 
+--------------10000-------------
+
+SELECTION SORT: 
+Runing time: 0.171875
+Comparisions: 100020001
+INSERTION SORT: 
+Runing time: 0.0625
+Comparisions: 49550883
+BUBBLE SORT: 
+Runing time: 0.421875
+Comparisions: 99966737
+SHAKE SORT: 
+Runing time: 0.359375
+Comparisions: 66143165
+SHELL SORT: 
+Runing time: 0.09375
+Comparisions: 49744576
+HEAP SORT: 
+Runing time: 0
+Comparisions: 379502
+MERGE SORT: 
+Runing time: 0
+Comparisions: 582859
+QUICK SORT: 
+Runing time: 0
+Comparisions: 272272
+COUNTING SORT: 
+Runing time: 0
+Comparisions:50002
+RADIX SORT: 
+Runing time: 0.015625
+Comparisions: 140061
+FLASH SORT: 
+Runing time: 0
+Comparisons: 339213
+
+
+--------------30000-------------
+
+SELECTION SORT: 
+Runing time: 1.5
+Comparisions: 900060001
+INSERTION SORT: 
+Runing time: 0.78125
+Comparisions: 451013275
+BUBBLE SORT: 
+Runing time: 3.96875
+Comparisions: 899981451
+SHAKE SORT: 
+Runing time: 3.0625
+Comparisions: 601090929
+SHELL SORT: 
+Runing time: 0.78125
+Comparisions: 451670593
+HEAP SORT: 
+Runing time: 0.015625
+Comparisions: 1280139
+MERGE SORT: 
+Runing time: 0
+Comparisions: 1935824
+QUICK SORT: 
+Runing time: 0.015625
+Comparisions: 930171
+COUNTING SORT: 
+Runing time: 0
+Comparisions:150001
+RADIX SORT: 
+Runing time: 0.015625
+Comparisions: 510076
+FLASH SORT: 
+Runing time: 0
+Comparisons: 1114107
+
+
+--------------50000-------------
+
+SELECTION SORT: 
+Runing time: 4.14062
+Comparisions: 2500100001
+INSERTION SORT: 
+Runing time: 2.07812
+Comparisions: 1250367805
+BUBBLE SORT: 
+Runing time: 11.75
+Comparisions: 2499903049
+SHAKE SORT: 
+Runing time: 10.25
+Comparisions: 1667291888
+SHELL SORT: 
+Runing time: 2.35938
+Comparisions: 1251552356
+HEAP SORT: 
+Runing time: 0
+Comparisions: 2247905
+MERGE SORT: 
+Runing time: 0.015625
+Comparisions: 3377812
+QUICK SORT: 
+Runing time: 0
+Comparisions: 1599735
+COUNTING SORT: 
+Runing time: 0
+Comparisions:250002
+RADIX SORT: 
+Runing time: 0.03125
+Comparisions: 850076
+FLASH SORT: 
+Runing time: 0
+Comparisons: 1931804
+
+
+--------------100000-------------
+
+SELECTION SORT: 
+Runing time: 18.0781
+Comparisions: 10000200001
+INSERTION SORT: 
+Runing time: 8.57812
+Comparisions: 4982938183
+BUBBLE SORT: 
+Runing time: 45.0156
+Comparisions: 10000037108
+SHAKE SORT: 
+Runing time: 36.0469
+Comparisions: 6648635857
+SHELL SORT: 
+Runing time: 9.04688
+Comparisions: 4985507199
+HEAP SORT: 
+Runing time: 0.015625
+Comparisions: 4794640
+MERGE SORT: 
+Runing time: 0.03125
+Comparisions: 7155370
+QUICK SORT: 
+Runing time: 0.015625
+Comparisions: 3458778
+COUNTING SORT: 
+Runing time: 0.015625
+Comparisions:500003
+RADIX SORT: 
+Runing time: 0.046875
+Comparisions: 1700076
+FLASH SORT: 
+Runing time: 0.015625
+Comparisons: 4068954
+
+
+--------------300000-------------
+
+SELECTION SORT: 
+Runing time: 158.203
+Comparisions: 90000600001
+INSERTION SORT: 
+Runing time: 77.0312
+Comparisions: 45123776116
+BUBBLE SORT: 
+Runing time: 396.156
+Comparisions: 89997407851
+SHAKE SORT: 
+Runing time: 313.547
+Comparisions: 60144747298
+SHELL SORT: 
+Runing time: 78.5938
+Comparisions: 45132551939
+HEAP SORT: 
+Runing time: 0.0625
+Comparisions: 15797625
+MERGE SORT: 
+Runing time: 0.109375
+Comparisions: 23358802
+QUICK SORT: 
+Runing time: 0.046875
+Comparisions: 10994000
+COUNTING SORT: 
+Runing time: 0
+Comparisions:1500003
+RADIX SORT: 
+Runing time: 0.1875
+Comparisions: 6000091
+FLASH SORT: 
+Runing time: 0.03125
+Comparisons: 13165975
+
+
+--------------500000-------------
+
+SELECTION SORT: 
+Runing time: 425.938
+Comparisions: 250001000001
+INSERTION SORT: 
+Runing time: 208.891
+Comparisions: 124988000322
+BUBBLE SORT: 
+Runing time: 1115.8
+Comparisions: 249996084352
+SHAKE SORT: 
+Runing time: 913.094
+Comparisions: 166706214441
+SHELL SORT: 
+Runing time: 232.594
+Comparisions: 125002976137
+HEAP SORT: 
+Runing time: 0.109375
+Comparisions: 27423196
+MERGE SORT: 
+Runing time: 0.1875
+Comparisions: 40369354
+QUICK SORT: 
+Runing time: 0.0625
+Comparisions: 19124517
+COUNTING SORT: 
+Runing time: 0.03125
+Comparisions:2500003
+RADIX SORT: 
+Runing time: 0.328125
+Comparisions: 10000091
+FLASH SORT: 
+Runing time: 0.078125
+Comparisons: 22777783
+
+
+SORTED DATA 
+--------------10000-------------
+
+SELECTION SORT: 
+Runing time: 0.171875
+Comparisions: 100020001
+INSERTION SORT: 
+Runing time: 0
+Comparisions: 29998
+BUBBLE SORT: 
+Runing time: 0
+Comparisions: 20001
+SHAKE SORT: 
+Runing time: 0
+Comparisions: 20001
+SHELL SORT: 
+Runing time: 0
+Comparisions: 223682
+HEAP SORT: 
+Runing time: 0
+Comparisions: 396533
+MERGE SORT: 
+Runing time: 0
+Comparisions: 466442
+QUICK SORT: 
+Runing time: 0
+Comparisions: 149055
+COUNTING SORT: 
+Runing time: 0
+Comparisions:50003
+RADIX SORT: 
+Runing time: 0
+Comparisions: 140061
+FLASH SORT: 
+Runing time: 0
+Comparisons: 367067
+
+
+--------------30000-------------
+
+SELECTION SORT: 
+Runing time: 1.64062
+Comparisions: 900060001
+INSERTION SORT: 
+Runing time: 0
+Comparisions: 89998
+BUBBLE SORT: 
+Runing time: 0
+Comparisions: 60001
+SHAKE SORT: 
+Runing time: 0
+Comparisions: 60001
+SHELL SORT: 
+Runing time: 0
+Comparisions: 747303
+HEAP SORT: 
+Runing time: 0
+Comparisions: 1326471
+MERGE SORT: 
+Runing time: 0
+Comparisions: 1543466
+QUICK SORT: 
+Runing time: 0
+Comparisions: 485546
+COUNTING SORT: 
+Runing time: 0.015625
+Comparisions:150003
+RADIX SORT: 
+Runing time: 0.015625
+Comparisions: 510076
+FLASH SORT: 
+Runing time: 0
+Comparisons: 1194369
+
+
+--------------50000-------------
+
+SELECTION SORT: 
+Runing time: 4.53125
+Comparisions: 2500100001
+INSERTION SORT: 
+Runing time: 0
+Comparisions: 149998
+BUBBLE SORT: 
+Runing time: 0
+Comparisions: 100001
+SHAKE SORT: 
+Runing time: 0
+Comparisions: 100001
+SHELL SORT: 
+Runing time: 0.015625
+Comparisions: 1334540
+HEAP SORT: 
+Runing time: 0
+Comparisions: 2328781
+MERGE SORT: 
+Runing time: 0.015625
+Comparisions: 2683946
+QUICK SORT: 
+Runing time: 0
+Comparisions: 881083
+COUNTING SORT: 
+Runing time: 0
+Comparisions:250003
+RADIX SORT: 
+Runing time: 0.03125
+Comparisions: 850076
+FLASH SORT: 
+Runing time: 0
+Comparisons: 2067239
+
+
+--------------100000-------------
+
+SELECTION SORT: 
+Runing time: 18.1406
+Comparisions: 10000200001
+INSERTION SORT: 
+Runing time: 0
+Comparisions: 299998
+BUBBLE SORT: 
+Runing time: 0
+Comparisions: 200001
+SHAKE SORT: 
+Runing time: 0
+Comparisions: 200001
+SHELL SORT: 
+Runing time: 0.015625
+Comparisions: 2869009
+HEAP SORT: 
+Runing time: 0.015625
+Comparisions: 4963737
+MERGE SORT: 
+Runing time: 0
+Comparisions: 5667898
+QUICK SORT: 
+Runing time: 0.015625
+Comparisions: 1862156
+COUNTING SORT: 
+Runing time: 0
+Comparisions:500003
+RADIX SORT: 
+Runing time: 0.046875
+Comparisions: 1700076
+FLASH SORT: 
+Runing time: 0.03125
+Comparisons: 4334497
+
+
+--------------300000-------------
+
+SELECTION SORT: 
+Runing time: 163.578
+Comparisions: 90000600001
+INSERTION SORT: 
+Runing time: 0
+Comparisions: 899998
+BUBBLE SORT: 
+Runing time: 0.015625
+Comparisions: 600001
+SHAKE SORT: 
+Runing time: 0
+Comparisions: 600001
+SHELL SORT: 
+Runing time: 0.015625
+Comparisions: 9675803
+HEAP SORT: 
+Runing time: 0.046875
+Comparisions: 16292615
+MERGE SORT: 
+Runing time: 0.078125
+Comparisions: 18408314
+QUICK SORT: 
+Runing time: 0
+Comparisions: 5889300
+COUNTING SORT: 
+Runing time: 0.015625
+Comparisions:1500003
+RADIX SORT: 
+Runing time: 0.1875
+Comparisions: 6000091
+FLASH SORT: 
+Runing time: 0.03125
+Comparisons: 13949119
+
+
+--------------500000-------------
+
+SELECTION SORT: 
+Runing time: 529.719
+Comparisions: 250001000001
+INSERTION SORT: 
+Runing time: 0
+Comparisions: 1499998
+BUBBLE SORT: 
+Runing time: 0
+Comparisions: 1000001
+SHAKE SORT: 
+Runing time: 0
+Comparisions: 1000001
+SHELL SORT: 
+Runing time: 0.046875
+Comparisions: 16475803
+HEAP SORT: 
+Runing time: 0.09375
+Comparisions: 28201279
+MERGE SORT: 
+Runing time: 0.140625
+Comparisions: 31836410
+QUICK SORT: 
+Runing time: 0.03125
+Comparisions: 10048590
+COUNTING SORT: 
+Runing time: 0
+Comparisions:2500003
+RADIX SORT: 
+Runing time: 0.40625
+Comparisions: 10000091
+FLASH SORT: 
+Runing time: 0.046875
+Comparisons: 23953017
+
+
+REVERSE DATA 
+--------------10000-------------
+
+SELECTION SORT: 
+Runing time: 0.21875
+Comparisions: 100020001
+INSERTION SORT: 
+Runing time: 0.21875
+Comparisions: 100009999
+BUBBLE SORT: 
+Runing time: 0.625
+Comparisions: 100039998
+SHAKE SORT: 
+Runing time: 0.640625
+Comparisions: 100005000
+SHELL SORT: 
+Runing time: 0.203125
+Comparisions: 100213682
+HEAP SORT: 
+Runing time: 0.015625
+Comparisions: 363417
+MERGE SORT: 
+Runing time: 0
+Comparisions: 485241
+QUICK SORT: 
+Runing time: 0
+Comparisions: 159070
+COUNTING SORT: 
+Runing time: 0
+Comparisions:50003
+RADIX SORT: 
+Runing time: 0
+Comparisions: 140061
+FLASH SORT: 
+Runing time: 0
+Comparisons: 352851
+
+
+--------------30000-------------
+
+SELECTION SORT: 
+Runing time: 1.95312
+Comparisions: 900060001
+INSERTION SORT: 
+Runing time: 1.9375
+Comparisions: 900029999
+BUBBLE SORT: 
+Runing time: 5.64062
+Comparisions: 900119998
+SHAKE SORT: 
+Runing time: 5.6875
+Comparisions: 900015000
+SHELL SORT: 
+Runing time: 1.84375
+Comparisions: 900717303
+HEAP SORT: 
+Runing time: 0
+Comparisions: 1234995
+MERGE SORT: 
+Runing time: 0.015625
+Comparisions: 1589913
+QUICK SORT: 
+Runing time: 0
+Comparisions: 515556
+COUNTING SORT: 
+Runing time: 0
+Comparisions:150003
+RADIX SORT: 
+Runing time: 0.015625
+Comparisions: 510076
+FLASH SORT: 
+Runing time: 0
+Comparisons: 1151521
+
+
+--------------50000-------------
+
+SELECTION SORT: 
+Runing time: 5.4375
+Comparisions: 2500100001
+INSERTION SORT: 
+Runing time: 5.34375
+Comparisions: 2500049999
+BUBBLE SORT: 
+Runing time: 15.7656
+Comparisions: 2500199998
+SHAKE SORT: 
+Runing time: 15.8281
+Comparisions: 2500025000
+SHELL SORT: 
+Runing time: 5.28125
+Comparisions: 2501284540
+HEAP SORT: 
+Runing time: 0
+Comparisions: 2165045
+MERGE SORT: 
+Runing time: 0
+Comparisions: 2772825
+QUICK SORT: 
+Runing time: 0.015625
+Comparisions: 931094
+COUNTING SORT: 
+Runing time: 0
+Comparisions:250003
+RADIX SORT: 
+Runing time: 0.03125
+Comparisions: 850076
+FLASH SORT: 
+Runing time: 0.015625
+Comparisons: 1996587
+
+
+--------------100000-------------
+
+SELECTION SORT: 
+Runing time: 21.1719
+Comparisions: 10000200001
+INSERTION SORT: 
+Runing time: 16.5469
+Comparisions: 10000099999
+BUBBLE SORT: 
+Runing time: 48.0938
+Comparisions: 10000399998
+SHAKE SORT: 
+Runing time: 58.6875
+Comparisions: 10000050000
+SHELL SORT: 
+Runing time: 22.125
+Comparisions: 10002769009
+HEAP SORT: 
+Runing time: 0.015625
+Comparisions: 4624189
+MERGE SORT: 
+Runing time: 0.03125
+Comparisions: 5845657
+QUICK SORT: 
+Runing time: 0
+Comparisions: 1962168
+COUNTING SORT: 
+Runing time: 0.015625
+Comparisions:500003
+RADIX SORT: 
+Runing time: 0.0625
+Comparisions: 1700076
+FLASH SORT: 
+Runing time: 0.015625
+Comparisons: 4193181
+
+
+--------------300000-------------
+
+SELECTION SORT: 
+Runing time: 196.625
+Comparisions: 90000600001
+INSERTION SORT: 
+Runing time: 193.047
+Comparisions: 90000299999
+BUBBLE SORT: 
+Runing time: 565.234
+Comparisions: 90001199998
+SHAKE SORT: 
+Runing time: 570
+Comparisions: 90000150000
+SHELL SORT: 
+Runing time: 199.125
+Comparisions: 90009375803
+HEAP SORT: 
+Runing time: 0.046875
+Comparisions: 15317245
+MERGE SORT: 
+Runing time: 0.078125
+Comparisions: 18945945
+QUICK SORT: 
+Runing time: 0.015625
+Comparisions: 6189320
+COUNTING SORT: 
+Runing time: 0
+Comparisions:1500003
+RADIX SORT: 
+Runing time: 0.25
+Comparisions: 6000091
+FLASH SORT: 
+Runing time: 0.046875
+Comparisons: 13521275
+
+
+--------------500000-------------
+
+SELECTION SORT: 
+Runing time: 544.859
+Comparisions: 250001000001
+INSERTION SORT: 
+Runing time: 535.734
+Comparisions: 250000499999
+BUBBLE SORT: 
+Runing time: 1576.53
+Comparisions: 250001999998
+SHAKE SORT: 
+Runing time: 1583.17
+Comparisions: 250000250000
+SHELL SORT: 
+Runing time: 553.656
+Comparisions: 250015975803
+HEAP SORT: 
+Runing time: 0.109375
+Comparisions: 26647015
+MERGE SORT: 
+Runing time: 0.140625
+Comparisions: 32517849
+QUICK SORT: 
+Runing time: 0.03125
+Comparisions: 10548604
+COUNTING SORT: 
+Runing time: 0.015625
+Comparisions:2500003
+RADIX SORT: 
+Runing time: 0.40625
+Comparisions: 10000091
+FLASH SORT: 
+Runing time: 0.0625
+Comparisons: 23237225
+
+
+NEARLY SORTED DATA 
+--------------10000-------------
+
+SELECTION SORT: 
+Runing time: 0.21875
+Comparisions: 100020001
+INSERTION SORT: 
+Runing time: 0
+Comparisions: 112186
+BUBBLE SORT: 
+Runing time: 0.140625
+Comparisions: 71822053
+SHAKE SORT: 
+Runing time: 0
+Comparisions: 132848
+SHELL SORT: 
+Runing time: 0
+Comparisions: 305870
+HEAP SORT: 
+Runing time: 0
+Comparisions: 396419
+MERGE SORT: 
+Runing time: 0
+Comparisions: 490961
+QUICK SORT: 
+Runing time: 0
+Comparisions: 149087
+COUNTING SORT: 
+Runing time: 0
+Comparisions:50003
+RADIX SORT: 
+Runing time: 0.015625
+Comparisions: 140061
+FLASH SORT: 
+Runing time: 0
+Comparisons: 367045
+
+
+--------------30000-------------
+
+SELECTION SORT: 
+Runing time: 1.9375
+Comparisions: 900060001
+INSERTION SORT: 
+Runing time: 0
+Comparisions: 434450
+BUBBLE SORT: 
+Runing time: 1.45312
+Comparisions: 700887569
+SHAKE SORT: 
+Runing time: 0
+Comparisions: 471247
+SHELL SORT: 
+Runing time: 0
+Comparisions: 1091755
+HEAP SORT: 
+Runing time: 0.015625
+Comparisions: 1326461
+MERGE SORT: 
+Runing time: 0
+Comparisions: 1638901
+QUICK SORT: 
+Runing time: 0
+Comparisions: 485595
+COUNTING SORT: 
+Runing time: 0
+Comparisions:150003
+RADIX SORT: 
+Runing time: 0.03125
+Comparisions: 510076
+FLASH SORT: 
+Runing time: 0
+Comparisons: 1194347
+
+
+--------------50000-------------
+
+SELECTION SORT: 
+Runing time: 5.40625
+Comparisions: 2500100001
+INSERTION SORT: 
+Runing time: 0.015625
+Comparisions: 1091786
+BUBBLE SORT: 
+Runing time: 4.54688
+Comparisions: 2200961691
+SHAKE SORT: 
+Runing time: 0.015625
+Comparisions: 1089964
+SHELL SORT: 
+Runing time: 0
+Comparisions: 2276328
+HEAP SORT: 
+Runing time: 0.015625
+Comparisions: 2328735
+MERGE SORT: 
+Runing time: 0
+Comparisions: 2867910
+QUICK SORT: 
+Runing time: 0
+Comparisions: 881143
+COUNTING SORT: 
+Runing time: 0.015625
+Comparisions:250003
+RADIX SORT: 
+Runing time: 0.03125
+Comparisions: 850076
+FLASH SORT: 
+Runing time: 0
+Comparisons: 2067226
+
+
+--------------100000-------------
+
+SELECTION SORT: 
+Runing time: 21.6406
+Comparisions: 10000200001
+INSERTION SORT: 
+Runing time: 0
+Comparisions: 1610290
+BUBBLE SORT: 
+Runing time: 15.4531
+Comparisions: 7474868088
+SHAKE SORT: 
+Runing time: 0.015625
+Comparisions: 1736207
+SHELL SORT: 
+Runing time: 0.015625
+Comparisions: 4179301
+HEAP SORT: 
+Runing time: 0.015625
+Comparisions: 4963367
+MERGE SORT: 
+Runing time: 0.015625
+Comparisions: 6001574
+QUICK SORT: 
+Runing time: 0.015625
+Comparisions: 1862200
+COUNTING SORT: 
+Runing time: 0
+Comparisions:500003
+RADIX SORT: 
+Runing time: 0.0625
+Comparisions: 1700076
+FLASH SORT: 
+Runing time: 0.015625
+Comparisons: 4334479
+
+
+--------------300000-------------
+
+SELECTION SORT: 
+Runing time: 194.766
+Comparisions: 90000600001
+INSERTION SORT: 
+Runing time: 0.015625
+Comparisions: 5064158
+BUBBLE SORT: 
+Runing time: 144.141
+Comparisions: 69655827607
+SHAKE SORT: 
+Runing time: 0.03125
+Comparisions: 5189047
+SHELL SORT: 
+Runing time: 0.03125
+Comparisions: 13839963
+HEAP SORT: 
+Runing time: 0.0625
+Comparisions: 16292041
+MERGE SORT: 
+Runing time: 0.078125
+Comparisions: 19400810
+QUICK SORT: 
+Runing time: 0.015625
+Comparisions: 5889344
+COUNTING SORT: 
+Runing time: 0.015625
+Comparisions:1500003
+RADIX SORT: 
+Runing time: 0.234375
+Comparisions: 6000091
+FLASH SORT: 
+Runing time: 0.046875
+Comparisons: 13949094
+
+
+--------------500000-------------
+
+SELECTION SORT: 
+Runing time: 541.016
+Comparisions: 250001000001
+INSERTION SORT: 
+Runing time: 0
+Comparisions: 6220886
+BUBBLE SORT: 
+Runing time: 376.406
+Comparisions: 181856852557
+SHAKE SORT: 
+Runing time: 0.03125
+Comparisions: 6564672
+SHELL SORT: 
+Runing time: 0.0625
+Comparisions: 21196691
+HEAP SORT: 
+Runing time: 0.09375
+Comparisions: 28196985
+MERGE SORT: 
+Runing time: 0.140625
+Comparisions: 33264834
+QUICK SORT: 
+Runing time: 0.03125
+Comparisions: 10048618
+COUNTING SORT: 
+Runing time: 0.015625
+Comparisions:2500003
+RADIX SORT: 
+Runing time: 0.421875
+Comparisions: 10000091
+FLASH SORT: 
+Runing time: 0.0625
+Comparisons: 23953003
+
+

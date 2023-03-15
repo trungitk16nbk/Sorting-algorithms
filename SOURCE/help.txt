@@ -1,0 +1,25 @@
+1. Algorithm mode: In this mode, you are asked to run a specified sorting algorithm on the input
+data, which is either given or generated automatically, and present the resulting running time
+and/or number of comparisons.
+	• Command 1: Run a sorting algorithm on the given input data.
+	    – Prototype: [Execution file] -a [Algorithm] [Given input] [Output parameter(s)]
+	    – Ex: a.exe -a radix-sort input.txt -both
+ 	• Command 2: Run a sorting algorithm on the data generated automatically with specified
+	size and order.
+	    – Prototype: [Execution file] -a [Algorithm] [Input size] [Input order] [Output parameter(s)]
+	    – Ex: a.exe -a selection-sort 50 -rand -time
+	• Command 3: Run a sorting algorithm on ALL data arrangements of a specified size.
+	    – Prototype: [Execution file] -a [Algorithm] [Input size] [Output parameter(s)]
+	    – Ex: a.exe -a binary-insertion-sort 70000 -comp
+2. Comparison mode: In this mode, you have to run TWO specified sorting algorithms on the
+input data, which is either given or generated automatically, and present the resulting running
+times and/or numbers of comparisons.
+	• Command 4: Run two sorting algorithms on the given input.
+	    – Prototype: [Execution file] -c [Algorithm 1] [Algorithm 2] [Given input]
+   	    – Ex: a.exe -c heap-sort merge-sort input.txt
+	• Command 5: Run two sorting algorithms on the data generated automatically.
+	    – Prototype: [Execution file] -c [Algorithm 1] [Algorithm 2] [Input size] [Input order]
+	    – Ex: a.exe -c quick-sort merge-sort 100000 -nsorted
+3. Help: command line input helper function
+	– Prototype: [Execution file] -help
+	– Ex: a.exe -help
